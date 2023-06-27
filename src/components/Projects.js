@@ -23,7 +23,7 @@ function Projects() {
 
       {/* hotstar */}
       <div className="container">
-        <a
+        {/* <a
           href="https://github.com/sumanthleo/e-commerce"
           target="_blank"
           rel="noopener"
@@ -37,7 +37,7 @@ function Projects() {
             />
           </div>
           <div className="text">E-commerce-clone</div>
-        </a>
+        </a> */}
       </div>
       {/* blog-clone */}
 
