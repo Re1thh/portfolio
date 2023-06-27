@@ -6,16 +6,15 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import Resume from "./Resume";
 import Projects from "./Projects";
-import { Link } from "react-router-dom";
 import ClickAwayListener from "@material-ui/core/ClickAwayListener";
 
 function Main() {
   const [first, setFirst] = useState(true);
   const [second, setSecond] = useState(true);
-  const handleClickAwayEvent = () => {
-    setFirst(true);
-    // setSecond(true);
-  };
+  // const handleClickAwayEvent = () => {
+  //   setFirst(true);
+  //   // setSecond(true);
+  // };
   const handleClickAwayEvents = () => {
     // setFirst(true);
     setSecond(true);
