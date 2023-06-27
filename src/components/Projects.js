@@ -7,6 +7,7 @@ function Projects() {
         <a
           href="https://github.com/sumanthleo/FoodApp-clone"
           target="_blank"
+          rel="noopener"
           className="link"
         >
           <div className="projectImage">
@@ -25,6 +26,7 @@ function Projects() {
         <a
           href="https://github.com/sumanthleo/e-commerce"
           target="_blank"
+          rel="noopener"
           className="link"
         >
           <div className="projectImage">
