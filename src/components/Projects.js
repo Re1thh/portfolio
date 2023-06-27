@@ -4,7 +4,7 @@ function Projects() {
   return (
     <div className="mainContainer">
       <div className="container">
-        <a
+        {/* <a
           href="https://github.com/sumanthleo/FoodApp-clone"
           target="_blank"
           rel="noopener"
@@ -18,7 +18,7 @@ function Projects() {
             />
           </div>
           <div className="text">Zomato-clone</div>
-        </a>
+        </a> */}
       </div>
 
       {/* hotstar */}
