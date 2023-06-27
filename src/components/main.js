@@ -49,7 +49,7 @@ function Main() {
             <ul className="details">
               <li className="detail">
                 {" "}
-                <b className="boldtags"> Name</b>: Revanth
+                <b className="boldtags"> Name</b>: Revanth Reddy Thipparthi
               </li>
               <li className="detail">
                 {" "}
